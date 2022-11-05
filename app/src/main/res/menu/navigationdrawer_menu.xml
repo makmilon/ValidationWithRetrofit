@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_online"
+        android:icon="@drawable/ic_online"
+        android:iconTint="@color/white"
+        android:title="Online" />
+
+    <item
+        android:id="@+id/menu_account"
+        android:icon="@drawable/ic_account"
+        android:iconTint="@color/white"
+        android:title="Account" />
+
+
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_logout"
+        android:iconTint="@color/white"
+        android:title="Logout" />
+
+
+</menu>
